@@ -1,4 +1,7 @@
 # Encryptix
+
+# Rule baed-chatbot
+
 ## Introduction
 
 The **Rule-Based Chatbot** is a simple conversational agent that responds to user queries by matching their inputs with predefined rules. This type of chatbot is ideal for handling specific tasks or responding to a limited set of queries where the responses can be anticipated and programmed in advance.
